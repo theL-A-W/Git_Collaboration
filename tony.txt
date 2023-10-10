@@ -1,5 +1,5 @@
 
 Hi it's Simeal
 
-Here is a line of text in the file.
+I deleted this line
 Here is a line of text in the file. I am doing this a second time
